@@ -1,0 +1,6 @@
+grprop:
+  greeting: Hello
+  greetings:
+    EN: EN
+    ES: ES
+    DE: DE
